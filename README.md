@@ -21,4 +21,4 @@
 1. `eb init`
 2. choose the default options
 3. `eb create --single <my-environment-name>` to create your new environment
-4. `eb deploy`
+4. `eb deploy` 
